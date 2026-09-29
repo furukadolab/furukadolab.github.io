@@ -1,10 +1,525 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-09-29T07:52:55+00:00",
   "permalink": "80882191",
-  "sync_status": "not_run",
-  "published_papers": [],
-  "books_etc": [],
-  "presentations": [],
-  "awards": [],
-  "research_projects": []
+  "sync_status": "ok",
+  "published_papers": [
+    {
+      "date": "2026-03",
+      "title": "Oral GABA supplementation immediately improves standardized MOBA micro-performance and frontal EEG engagement in esports: a randomized, double-blind, crossover trial",
+      "venue": "Journal of Food Bioactives",
+      "authors": "Ryousuke Furukado, Yoshihiro Hara, Utano Nakamura, Keita Koga, Yusuke Yamashita, Youngil Kim, Goichi Hagiwara",
+      "url": "https://doi.org/10.26599/jfb.2026.95033439"
+    },
+    {
+      "date": "2025-05-30",
+      "title": "γ-Aminobutyric Acid Intake Improves Psychological State and Performance in Esports: A Randomized, Placebo-Controlled, Double-Blind Crossover Study",
+      "venue": "Nutrients",
+      "authors": "Yoshihiro Hara, Utano Nakamura, Keita Koga, Yusuke Yamashita, Youngil Kim, Goichi Hagiwara, Ryousuke Furukado",
+      "url": "https://doi.org/10.3390/nu17111870"
+    },
+    {
+      "date": "2025",
+      "title": "Development and Validation of a Digital Evaluation System for a Repetitive Side-to-Side Jump Test Based on Skeletal Recognition",
+      "venue": "Procedia Computer Science",
+      "authors": "Ryousuke Furukado, Kazuhiro Noguchi, Goichi Hagiwara, Yasunori Takemura",
+      "url": "https://doi.org/10.1016/j.procs.2025.09.631"
+    },
+    {
+      "date": "2024-11",
+      "title": "Integrating Minecraft Education in Curriculum Design to Enhance Chemistry Learning",
+      "venue": "Procedia Computer Science",
+      "authors": "Ryousuke Furukado, Yan Zhu, Goichi Hagiwara",
+      "url": "https://doi.org/10.1016/j.procs.2024.09.287"
+    },
+    {
+      "date": "2024-04",
+      "title": "Transferability of Multiple Object Tracking Skill Training to Professional Baseball Players’ Hitting Performance",
+      "venue": "Journal of Digital Life",
+      "authors": "Ryousuke Furukado, Yoshiko Saito, Toru Ichikawa, Kei Morikawa, Daiki Enokida, Hirohisa Isogai",
+      "url": "https://doi.org/10.51015/jdl.2024.4.S5"
+    },
+    {
+      "date": "2023-09",
+      "title": "Gaze and Electroencephalography (EEG) Parameters in Esports: Examinations Considering Genres and Skill Levels.",
+      "venue": "2023 International Workshop on Smart Info-Media Systems in Asia (SISA 2023)",
+      "authors": "Ryousuke Furukado, Goichi Hagiwara",
+      "url": "https://api.researchmap.jp/80882191/research_projects/32138320"
+    },
+    {
+      "date": "2022-07",
+      "title": "Effects of glucose Ramune candy ingestion on concentration during esports play and cognitive function",
+      "venue": "Journal of Digital Life",
+      "authors": "Ryousuke Furukado, Goichi Hagiwara, Hiroyuki Inagaki",
+      "url": "https://doi.org/10.51015/jdl.2022.2.11"
+    },
+    {
+      "date": "2021-12",
+      "title": "Examining the effects of digital gameplay of the racing genre on mood and heart rate",
+      "venue": "Journal of Digital Life",
+      "authors": "Ryousuke Furukado, Goichi Hagiwara",
+      "url": "https://doi.org/10.51015/jdl.2021.1.5"
+    },
+    {
+      "date": "2021-10",
+      "title": "Effect of Multiple Object Tracking Training on Visual Search Strategies",
+      "venue": "Journal of Digital Life",
+      "authors": "Ryousuke Furukado, Daisuke Akiyama, Tomohisa Sakuma, Ryota Shinriki, Goichi Hagiwara, Hirohisa Isogai",
+      "url": ""
+    },
+    {
+      "date": "2020-12",
+      "title": "Comparison of EEG biofeedback and visual search strategies during e-sports play according to skill level.",
+      "venue": "Journal of Human Sport and Exercise.",
+      "authors": "Furukado, R, Hagiwara, G, Ito, T, Isogai, H",
+      "url": "https://rua.ua.es/dspace/bitstream/10045/110825/1/JHSE_2020_15_Proc4_13.pdf"
+    },
+    {
+      "date": "2020-06",
+      "title": "A study on psychological training of eSports using digital games: Focusing on rhythm game",
+      "venue": "Journal of Human Sport and Exercise.",
+      "authors": "Goichi Hagiwara, Daisuke Akiyama, Ryousuke Furukado, Shunichi Takeshita",
+      "url": "https://doi.org/10.14198/jhse.2020.15.proc3.03"
+    },
+    {
+      "date": "2020-03",
+      "title": "複数対象追跡スキルに影響する要因の特定：実験的検討",
+      "venue": "九州産業大学 人間科学",
+      "authors": "古門良亮, 磯貝浩久, 秋山大輔, 斉藤嘉子",
+      "url": "https://doi.org/10.32223/hsksu.2.0_82"
+    },
+    {
+      "date": "2019-04",
+      "title": "サッカー競技者の複数対象追跡スキルレベルによる視覚探索方略の違い",
+      "venue": "スポーツ産業学研究",
+      "authors": "古門良亮, 磯貝浩久",
+      "url": "https://doi.org/10.5997/sposun.29.2_91"
+    },
+    {
+      "date": "2019-02",
+      "title": "卓球の試合観戦中における観戦者の企業スポンサー広告への視線検証",
+      "venue": "教育医学",
+      "authors": "萩原悟一, 秋山大輔, 中田征克, 古門良亮",
+      "url": "https://doi.org/10.32311/jsehs.64.3_260"
+    },
+    {
+      "date": "2019",
+      "title": "複数対象追跡スキルのトレーニング効果および視覚探索方略の検討",
+      "venue": "人間工学",
+      "authors": "古門良亮, 秋山大輔, 佐久間智央, 神力亮太, 萩原悟一, 磯貝浩久",
+      "url": "https://doi.org/10.5100/jje.55.33"
+    }
+  ],
+  "books_etc": [
+    {
+      "date": "2024-04-01",
+      "title": "スポーツビジネス概論 ５",
+      "venue": "叢文社",
+      "authors": "黒田 次郎, 石塚 大輔, 萩原 悟一, 秋山大輔",
+      "url": ""
+    },
+    {
+      "date": "2021-12-27",
+      "title": "eスポーツの科学",
+      "venue": "ベースボール・マガジン社",
+      "authors": "磯貝浩久, 西薗秀嗣",
+      "url": "https://www.amazon.co.jp/dp/4583114184?linkCode=osi&th=1&psc=1"
+    }
+  ],
+  "presentations": [
+    {
+      "date": "2026-02-22",
+      "title": "Minecraft Education Teacher Academy の課題に基づく教員研修の再設計 ―実践演習型 New Teacher Academy の開発とパイロット評価―",
+      "venue": "デジタルゲーム学会第16回年次大会",
+      "authors": "祝顔, 古門良亮",
+      "url": ""
+    },
+    {
+      "date": "2026-01-08",
+      "title": "Evaluating the Effects of Game-Based Intervention on Cognitive Function and EEG-Derived Attention in Older Adults",
+      "venue": "The 24th Hawaii International Conference on Education",
+      "authors": "Ryousuke Furukado, Tomohisa Sakuma, Mizuho Shimoda, Goichi Hagiwara",
+      "url": "https://api.researchmap.jp/80882191/research_projects/45977035"
+    },
+    {
+      "date": "2025-09-12",
+      "title": "Development and Validation of a Digital Evaluation System for a Repetitive Side-to-Side Jump Test Based on Skeletal Recognition",
+      "venue": "29th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES 2025)",
+      "authors": "Ryousuke Furukado, KazuhiroNoguchi, Goichi Hagiwara, Yasunori Takemura",
+      "url": ""
+    },
+    {
+      "date": "2025-09-07",
+      "title": "シンポジウム：先端技術が拓く体育・スポーツ教育の新展開― ICT・AIを活用した合理的で学習者中心の指導文化の構築 ―",
+      "venue": "九州体育・スポーツ学会 第74回大会",
+      "authors": "古門良亮, 萩原悟一, 増村雅尚",
+      "url": ""
+    },
+    {
+      "date": "2025-05-21",
+      "title": "eスポーツが拓く大学教育の未来： 教育・研究・地域連携の新戦略",
+      "venue": "日本私立大学協会九州支部 令和７年度春季総会",
+      "authors": "古門良亮",
+      "url": ""
+    },
+    {
+      "date": "2025-03-21",
+      "title": "赤外線センサーを活用した「反復横跳び」測定の精度分析と改善案",
+      "venue": "日本体育測定評価学会 第24回大会",
+      "authors": "古門良亮, 萩原悟一",
+      "url": ""
+    },
+    {
+      "date": "2024-09-16",
+      "title": "Empowering Educators: Assessing and Advancing Minecraft Education Edition Resources",
+      "venue": "The Conference of Digital Life vol.2",
+      "authors": "Yan Zhu, Ryousuke Furukado",
+      "url": ""
+    },
+    {
+      "date": "2024-09-13",
+      "title": "Integrating Minecraft Education in Curriculum Design to Enhance Chemistry Learning",
+      "venue": "28th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES 2024)",
+      "authors": "Ryousuke Furukado, Yan Zhu, Goichi Hagiwara",
+      "url": "https://api.researchmap.jp/80882191/research_projects/45977035"
+    },
+    {
+      "date": "2024-09-08",
+      "title": "「スポーツを通じた学びとは何か?(続)キャリアの先にあるもの」",
+      "venue": "九州体育・スポーツ学会 第73回大会",
+      "authors": "古門良亮",
+      "url": "https://api.researchmap.jp/80882191/research_projects/45977035"
+    },
+    {
+      "date": "2024-05-25",
+      "title": "GABA の摂取が esports における集中力及びパフォーマンスに与える影響",
+      "venue": "第78回日本栄養・食糧学会大会",
+      "authors": "原由洋, 中村唱乃, 古賀啓太, 山下裕輔, 金英一, 萩原悟一, 古門良亮",
+      "url": ""
+    },
+    {
+      "date": "2024-03-03",
+      "title": "キュウスポ CURRENT「様々な組織で活躍するスポーツ心理学者からのメッセージ」",
+      "venue": "九州スポーツ心理学会第３７回大会",
+      "authors": "古門良亮",
+      "url": ""
+    },
+    {
+      "date": "2024-01-05",
+      "title": "Optimizing Cognitive Testing: Developing a Digital Trail Making Test (D-TMT) for Young Adults",
+      "venue": "The 22th Hawaii International Conference on Education",
+      "authors": "Ryousuke Furukado, Takashi Sonoda",
+      "url": "https://api.researchmap.jp/80882191/research_projects/32138320"
+    },
+    {
+      "date": "2023-09-16",
+      "title": "Exploring Micromanagement and Multiple Target Tracking Skills in Esports Players: Insights from Perceptual and Cognitive Tasks",
+      "venue": "The Conference of Digital Life vol.1",
+      "authors": "Ryousuke Furukado, Goichi Hagiwara",
+      "url": "https://api.researchmap.jp/80882191/research_projects/32138320"
+    },
+    {
+      "date": "2023-09-01",
+      "title": "Gaze and Electroencephalography (EEG) Parameters in Esports: Examinations Considering Genres and Skill Levels.",
+      "venue": "2023 International Workshop on Smart Info-Media Systems in Asia",
+      "authors": "Ryousuke Furukado, Goichi Hagiwara",
+      "url": "https://api.researchmap.jp/80882191/research_projects/32138320"
+    },
+    {
+      "date": "2023-06-30",
+      "title": "高齢者ｅスポーツにおける認知症予防の可能性調査報告",
+      "venue": "●LIVeNT2023(eスポーツビジネスEXPO)",
+      "authors": "萩原悟一, 古門良亮, 中田匡祐, 木村泰介",
+      "url": ""
+    },
+    {
+      "date": "2020-09-26",
+      "title": "Comparison of EEG biofeedback and visual search strategies during e-sports play according to skill level.",
+      "venue": "Summer Conferences of Sports Science. Costa Blanca Sports Science Events, 25-26 September 2020. Alicante, Spain.",
+      "authors": "Ryousuke FURUKADO, Goichi HAGIWARA, Tomohiro ITO, Hirohisa ISOGAI",
+      "url": ""
+    },
+    {
+      "date": "2020-03-02",
+      "title": "eスポーツプレイヤーのパフォーマンスと関連する認知要因の実験的検討",
+      "venue": "デジタルゲーム学会第10回年次大会",
+      "authors": "古門良亮, 斉藤嘉子, 伊藤僚洋, 作花浩聡, 磯貝浩久",
+      "url": ""
+    },
+    {
+      "date": "2020-01",
+      "title": "Developing an Application for Assessing Athletes’ Mental Conditions: Verifying the Effects From the Perspective of the Relationship Between Mental Conditioning and Sports Performance.",
+      "venue": "The 18th Hawaii International Conference on Education",
+      "authors": "Hirohisa Isogai, Ryousuke Furukado, Daisuke Akiyama, Yoshiko Saito, Masaaki Iwasaki",
+      "url": ""
+    },
+    {
+      "date": "2020-01",
+      "title": "Identifying Factors Affecting Multiple Object Tracking Skills: An Experimental Study",
+      "venue": "The 18th Hawaii International Conference on Education",
+      "authors": "Ryousuke Furukado, Daisuke Akiyama, Yoshiko Saito, Hirohisa Isogai",
+      "url": ""
+    },
+    {
+      "date": "2018-09",
+      "title": "高打率を残すためのコンディショニング―メントレアプリの解析結果から―",
+      "venue": "九州体育・スポーツ学会第67回大会",
+      "authors": "古門良亮, 徳永政夫, 林航輔, 斉藤嘉子, 小田一八, 磯貝浩久",
+      "url": ""
+    },
+    {
+      "date": "2018-07-21",
+      "title": "視機能トレーニングの実践方法(for Jr.)",
+      "venue": "福岡県タレント発掘事業（知的能力開発・育成プログラム）",
+      "authors": "古門良亮",
+      "url": ""
+    },
+    {
+      "date": "2018-03",
+      "title": "大学生におけるライフスキルに及ぼすスポーツ活動の影響",
+      "venue": "九州スポーツ心理学会第31回大会",
+      "authors": "蔡亮, 古門良亮, 神力亮太, 磯貝浩久",
+      "url": ""
+    },
+    {
+      "date": "2018-03",
+      "title": "動体視力に及ぼす心理要因の検討",
+      "venue": "九州スポーツ心理学会第31回大会",
+      "authors": "池部雅人, 古門良亮, 神力亮太, 磯貝浩久",
+      "url": ""
+    },
+    {
+      "date": "2017-11",
+      "title": "複数対象追跡スキルのトレーニング効果及び視覚探索方略の検討",
+      "venue": "日本スポーツ心理学会第44回大会",
+      "authors": "古門良亮, 磯貝浩久",
+      "url": ""
+    },
+    {
+      "date": "2017-09",
+      "title": "Effect of vision-up training on kinetic vision of the college baseball batter player.",
+      "venue": "The 13th International Congress of Physiological Anthropology",
+      "authors": "Kiyoshi Nakazato, Ryousuke Furukado, Ryota Shinriki, Masato Tokui",
+      "url": ""
+    },
+    {
+      "date": "2017-08",
+      "title": "ビジュアルトレーニングが打撃パフォーマンス及びスポーツビジョンに与える影響",
+      "venue": "第24回スポーツビジョン研究会",
+      "authors": "古門良亮, 磯貝浩久, 佐久間智央, 神力亮太",
+      "url": ""
+    },
+    {
+      "date": "2017-07-01",
+      "title": "視覚トレーニングに関する理論及び演習(for Kids)",
+      "venue": "福岡県タレント発掘事業（知的能力開発・育成プログラム）",
+      "authors": "古門良亮",
+      "url": ""
+    },
+    {
+      "date": "2017-03",
+      "title": "大学野球選手のスポーツビジョントレーニング効果の検討",
+      "venue": "九州スポーツ心理学会第30回大会",
+      "authors": "秋口美里, 古門良亮, 磯貝浩久",
+      "url": ""
+    },
+    {
+      "date": "2017-03",
+      "title": "複数対象追跡スキルトレーニングがスポーツビジョンおよび野球パフォーマンスに与える影響",
+      "venue": "九州スポーツ心理学会第30回大会",
+      "authors": "古門良亮, 磯貝浩久",
+      "url": ""
+    },
+    {
+      "date": "2016-11",
+      "title": "大学生野球選手の複数対象追跡スキルトレーニング効果の検討",
+      "venue": "日本スポーツ心理学会第43回大会",
+      "authors": "古門良亮, 佐久間智央, 磯貝浩久",
+      "url": ""
+    },
+    {
+      "date": "2016-09",
+      "title": "IT を活用したコンディショニング",
+      "venue": "九州体育・スポーツ学会 第65回大会",
+      "authors": "古門良亮, 佐久間智央, 神力亮太, 磯貝浩久",
+      "url": ""
+    },
+    {
+      "date": "2016-08",
+      "title": "サッカーにおける複数対象追跡時の視覚探索方略の検討",
+      "venue": "第23回スポーツビジョン研究会",
+      "authors": "古門良亮, 磯貝浩久, 神力亮太, 佐久間智央",
+      "url": ""
+    },
+    {
+      "date": "2015-03",
+      "title": "高齢者の認知機能に及ぼす3Dビジュアルトレーニングの影響",
+      "venue": "九州スポーツ心理学会第28回大会",
+      "authors": "田中綾, 今村律子, 神力亮太, 佐久間智央, 古門良亮",
+      "url": ""
+    },
+    {
+      "date": "2015-03",
+      "title": "サッカー用複数対象追跡課題の開発と視覚探索方略の検討",
+      "venue": "九州スポーツ心理学会第28回大会",
+      "authors": "古門良亮, 今村律子, 神力亮太, 佐久間智央, 磯貝浩久",
+      "url": ""
+    },
+    {
+      "date": "2014-11",
+      "title": "大学サッカー選手が持つ知識構造とプレー記憶の関連性について",
+      "venue": "日本スポーツ心理学会第40回大会",
+      "authors": "古門良亮, 萩原悟一, 磯貝浩久",
+      "url": ""
+    },
+    {
+      "date": "2014-08",
+      "title": "Cognitive function in elementary school children effects of the Visual Training.",
+      "venue": "7th Asian South Pacific Association of Sport Psychology International Congress",
+      "authors": "Ryousuke Furukado, Ritsuko Imamura, Goichi Hagiwara",
+      "url": ""
+    }
+  ],
+  "awards": [
+    {
+      "date": "2023-09",
+      "title": "The Conference of Digital Life vol.1 Good Presentation Award",
+      "venue": "Digital Life",
+      "url": ""
+    },
+    {
+      "date": "2023-09",
+      "title": "The Conference of Digital Life vol.1 Young Researcher Award",
+      "venue": "Digital Life",
+      "url": "https://api.researchmap.jp/80882191/research_projects/41098231"
+    },
+    {
+      "date": "2020-02",
+      "title": "２０１９年度日本スポーツ産業学会 奨励賞",
+      "venue": "日本スポーツ産業学会",
+      "url": ""
+    }
+  ],
+  "research_projects": [
+    {
+      "period": "2026-04-01 – 2029-03-31",
+      "year": "2026-04-01 – 2029-03-31",
+      "title": "高齢者の社会的つながりと心理的健康を支援する多世代eスポーツ介入モデルの構築",
+      "funder": "日本学術振興会",
+      "program": "科学研究費助成事業",
+      "grant_number": "26K15127",
+      "role": "",
+      "amount": "",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-26K15127"
+    },
+    {
+      "period": "2024-04 – 2027-03",
+      "year": "2024-04 – 2027-03",
+      "title": "デジタルゲームによる高齢者の認知機能改善プログラムの開発",
+      "funder": "日本学術振興会",
+      "program": "科学研究費助成事業 若手研究",
+      "grant_number": "24K20912",
+      "role": "principal_investigator",
+      "amount": "",
+      "url": "https://api.researchmap.jp/80882191/presentations/52173723"
+    },
+    {
+      "period": "2023-10 – 2026-03",
+      "year": "2023-10 – 2026-03",
+      "title": "プロeスポーツ選手へのプラズマクラスターイオンの効果検証に向けた研究",
+      "funder": "シャープ株式会社",
+      "program": "",
+      "grant_number": "",
+      "role": "principal_investigator",
+      "amount": "",
+      "url": ""
+    },
+    {
+      "period": "2024-10 – 2025-03",
+      "year": "2024-10 – 2025-03",
+      "title": "eスポーツ基礎スキルへのプラズマクラスターイオンの効果検証に向けた研究",
+      "funder": "シャープ株式会社",
+      "program": "",
+      "grant_number": "",
+      "role": "principal_investigator",
+      "amount": "",
+      "url": ""
+    },
+    {
+      "period": "2024-04 – 2025-03",
+      "year": "2024-04 – 2025-03",
+      "title": "ICTを活用した女性の継続的な運動実施の支援と効果検証",
+      "funder": "公益財団法人JKA",
+      "program": "2024年度競輪公益資金による体育事業その他の公益の増進を目的とする事業",
+      "grant_number": "2024P-422",
+      "role": "principal_investigator",
+      "amount": "",
+      "url": ""
+    },
+    {
+      "period": "2024-02 – 2025-03",
+      "year": "2024-02 – 2025-03",
+      "title": "esportsにおけるGABAの摂取がパフォーマンス及び脳波に与える影響",
+      "funder": "株式会社ファーマフーズ",
+      "program": "industry_academia_cooperation",
+      "grant_number": "",
+      "role": "principal_investigator",
+      "amount": "",
+      "url": ""
+    },
+    {
+      "period": "2022-06 – 2024-12",
+      "year": "2022-06 – 2024-12",
+      "title": "複数対象追跡スキルトレーニングが野球パフォーマンスに及ぼす効果の検討",
+      "funder": "株式会社西武ライオンズ",
+      "program": "",
+      "grant_number": "",
+      "role": "principal_investigator",
+      "amount": "",
+      "url": "https://api.researchmap.jp/80882191/published_papers/46302415"
+    },
+    {
+      "period": "2022-05 – 2023-03",
+      "year": "2022-05 – 2023-03",
+      "title": "eスポーツにおけるぶどう糖ラムネ菓子摂取による課題遂行能力とパフォーマンスに関する研究",
+      "funder": "株式会社産経デジタル",
+      "program": "",
+      "grant_number": "",
+      "role": "coinvestigator",
+      "amount": "",
+      "url": "https://api.researchmap.jp/80882191/awards/43243555"
+    },
+    {
+      "period": "2021-04 – 2023-03",
+      "year": "2021-04 – 2023-03",
+      "title": "デジタルゲームのパフォーマンスを規定する知覚・認知要因の解明",
+      "funder": "日本学術振興会",
+      "program": "科学研究費助成事業 若手研究",
+      "grant_number": "",
+      "role": "",
+      "amount": "",
+      "url": "https://api.researchmap.jp/80882191/awards/43243555"
+    },
+    {
+      "period": "2022-03 – 2022-12",
+      "year": "2022-03 – 2022-12",
+      "title": "ウェアラブルHRV解析システムによるe-sports課題遂行による認知機能向上可視化手法に関する研究",
+      "funder": "日本ユニシス株式会社",
+      "program": "",
+      "grant_number": "",
+      "role": "coinvestigator",
+      "amount": "",
+      "url": ""
+    },
+    {
+      "period": "2022-05 – 2022-09",
+      "year": "2022-05 – 2022-09",
+      "title": "NOK株式会社が開発している簡易EEG双極脳波計の効果実験",
+      "funder": "株式会社リトルソフトウェア",
+      "program": "",
+      "grant_number": "",
+      "role": "principal_investigator",
+      "amount": "",
+      "url": ""
+    }
+  ]
 }
