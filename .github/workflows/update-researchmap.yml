@@ -1,0 +1,38 @@
+name: Update researchmap data
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 毎月1日 09:30 JST
+    - cron: "30 0 1 * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch researchmap
+        run: python scripts/fetch_researchmap.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "furukadolab-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/researchmap.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: update researchmap data"
+            git push
+          fi
